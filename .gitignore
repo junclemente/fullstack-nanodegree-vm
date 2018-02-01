@@ -3,3 +3,6 @@ __pycache__
 .vagrant
 **/*DS_Store
 **/*.sublime-*
+**/*.db*
+**/*.db-journal
+*.db*
